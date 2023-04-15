@@ -9,7 +9,7 @@ body {
 
 .container {
     width: 50vw;
-    height: 80vh;
+    height: auto;
     margin: auto;
     border-radius: 40px;
     overflow: hidden;
@@ -31,5 +31,10 @@ body {
 .title {
     color: #551A8B;
     font-weight: 900;
+    font-size: 2vw;
     text-align: center;
 }
+
+
+
+
